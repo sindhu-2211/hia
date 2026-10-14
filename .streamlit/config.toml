@@ -1,0 +1,6 @@
+[server]
+maxUploadSize = 20
+fileWatcherType = "none"
+
+[logger]
+level = "error"
